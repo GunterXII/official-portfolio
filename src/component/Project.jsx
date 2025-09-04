@@ -7,7 +7,7 @@ const projects = [
     title: "Cryptoplace Tracker",
     description:
       "Un'app web per monitorare criptovalute in tempo reale, con grafici interattivi e dati aggiornati tramite API.",
-    video:"/public/progetti/Cryptoplace - Bernardo - Google Chrome 2025-09-02 14-15-38.mp4",
+    video:"./public/progetti/Cryptoplace - Bernardo - Google Chrome 2025-09-02 14-15-38.mp4",
     tags: ["React", "API", "Chart.js", "CSS", "JavaScript"],
     gitHubUrl:"https://github.com/GunterXII/crypto-marketplace"
   },
@@ -16,7 +16,7 @@ const projects = [
     title: "YouTube Clone",
     description:
       "Replica di YouTube con ricerca video, player integrato e interfaccia responsive, sviluppata con React e API.",
-    video:"/public/progetti/Youtube Clone - Bernardo - Google Chrome 2025-09-02 14-23-41.mp4",
+    video:"./public/progetti/Youtube Clone - Bernardo - Google Chrome 2025-09-02 14-23-41.mp4",
      tags: ["React", "API", "CSS", "JavaScript","Responsive"],
      gitHubUrl:"https://github.com/GunterXII/youtube-clone"
   },
@@ -25,7 +25,7 @@ const projects = [
     title: "Netflix Clone",
     description:
       "Clone di Netflix con catalogo dinamico, sezioni tematiche e integrazione di API per i dettagli dei film.",
-    video:"/public/progetti/Netflx Clone - Bernardo - Google Chrome 2025-08-29 13-45-59.mp4",
+    video:"./public/progetti/Netflx Clone - Bernardo - Google Chrome 2025-08-29 13-45-59.mp4",
      tags: ["React", "API", "CSS", "Firebase","Javascript"],
      gitHubUrl:"https://github.com/GunterXII/netflix-clone"
   },
@@ -73,3 +73,4 @@ const Project = () => {
 }
 
 export default Project
+
